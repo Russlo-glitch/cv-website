@@ -1,0 +1,67 @@
+:root {
+    --primary-color:rgb(0, 0, 139);
+    --primary-button-color:rgb(46, 46, 190);
+    --selected-button-color:rgba(212, 212, 212, 0.76);
+    --background-color:rgb(143, 161, 221);
+    --text-color:rgb(20, 20, 20);
+    --picture-frame:white;
+}
+
+.roboto-slab-roboto {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+h1,h2,h3,p,a {
+    font-family:"Roboto Slab", serif;
+    color:var(--text-color);
+    font-size: 1,5em;
+}
+
+header {
+    background-color:var(--primary-color);
+    padding-top:10px;
+    padding-bottom:10px;
+}
+body {
+    background-color:var(--background-color);
+}
+footer {
+    background-color: var(--primary-color);
+}
+#image-wrapper {
+    width: 300px;
+    height: 300px;
+    background-color:var(--picture-frame);
+    padding:10px;
+}
+#pfp {
+    border-radius: 4px;
+    width: 280px;
+    height: 280px;
+    object-fit:cover;
+}
+.banner-text {
+    padding-top:5%;
+}
+.navbar {
+    background-color:var(--primary-button-color);
+    padding-left:50px;
+}
+.nav-item a:hover {
+    background-color: var(--selected-button-color);
+}
+.container {
+    border-color: var(--text-color);
+    border-width: 2px;
+    border-style: solid;
+    background-color:white;
+    margin-top:2%;
+    padding:20px;
+}
+#update-container {
+    min-height: 100%;
+}
