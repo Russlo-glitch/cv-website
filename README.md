@@ -5,7 +5,7 @@ I am working on a website to to show what i can do with coding.
 
 ## ToDoList version 1.0
 ~~1. BareBones html-css-bootstrap<br>~~
-2. Database<br>
+2. mysql Database<br>
 3. JS Connection Database<br>
 4. JS functionality<br>
 5. further work on the css/bootstrap/html<br>
