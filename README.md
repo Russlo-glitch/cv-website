@@ -24,3 +24,6 @@ DBeaver image
 
 ERD screenschot
 <img width="1867" height="925" alt="cv-website-5" src="/image.md/ERD gustcv.jpg"/>
+
+base profile picture
+<img width="1867" height="925" alt="cv-website-5" src="/images/nopfp.jpg"/>
